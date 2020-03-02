@@ -1,0 +1,12 @@
+.partner {
+    overflow: hidden;
+    text-align: center;
+}
+
+.partner::content {
+    transform: rotate(0deg);
+}
+
+.partner h1 {
+    transform: rotate(0deg);
+}

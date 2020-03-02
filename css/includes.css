@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('elemnts.css');
+@import url('header.css');
+@import url('hero.css');
+@import url('partners.css');
+
+html,body {
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #F9FAFF;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
